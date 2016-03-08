@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Learn02LabelFlow/Learn02LabelFlow.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Learn01/Learn01.xcodeproj">
    </FileRef>
 </Workspace>
